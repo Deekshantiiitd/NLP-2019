@@ -1,0 +1,3 @@
+I remember reading that Apple also has a patent on their ADB hardware,
+and that the NuTek clones would therefore be lacking an ADB port.  What
+other patents does Apple have on the Mac?
